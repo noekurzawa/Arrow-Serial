@@ -1,0 +1,22 @@
+
+nav .nav-mobile{
+    display: none;
+}
+
+#home .nav-desktop{
+    display: block;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+nav .nav-desktop a{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 20%;
+
+
+
+
+}
